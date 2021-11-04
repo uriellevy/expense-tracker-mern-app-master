@@ -98,6 +98,11 @@ input[type="number"] {
   margin: 10px 0 30px;
   padding: 10px;
   width: 100%;
+  transition: 0.3s ease;
+}
+
+.btn:hover {
+  background-color: rgb(82, 128, 255);
 }
 
 .btn:focus,
