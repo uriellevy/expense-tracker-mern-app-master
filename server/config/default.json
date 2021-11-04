@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://uriel123:uriel123@expense-tracker.lje1l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
